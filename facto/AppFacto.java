@@ -29,6 +29,7 @@ public class AppFacto {
         return total;
     }
 
+
     private int getBasePrice(String type) {
         if (type.equals("assiette")) {
             return 15;

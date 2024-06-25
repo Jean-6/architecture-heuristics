@@ -6,7 +6,6 @@ public class Main {
 
         //cmd1 : Javac Main.java
         //cmd2: java Main "./data/numbers.csv" "*"
-
         if (args.length != 2) {
             System.out.println("Usage: calc <file.csv> <operation>");
             return;

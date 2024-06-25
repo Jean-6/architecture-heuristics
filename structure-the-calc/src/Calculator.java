@@ -2,7 +2,6 @@ import java.util.List;
 
 public class Calculator {
 
-
     public int calculate(List<List<Integer>> data, String operation) {
         int result = operation.equals("+") ? 0 : 1;
 

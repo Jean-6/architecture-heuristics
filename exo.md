@@ -7,3 +7,11 @@ Livraison: Gestion de la livraison dans notre système ou délégation à un pre
 Vous aurez besoin d’une application client, que nous allons exposer à vos clients pour leur permettre de s’inscrire, passer des commandes, suivi commandes.
 Involved entities and their interactions:
 Admins, marketing, customer
+
+Schema :
+
+
+
+admin 
+marketing comptabilite
+livraison 

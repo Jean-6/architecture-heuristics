@@ -1,5 +1,4 @@
 public class AppFacto {
-
     public int Compute(String type, String name, String beverage, String size, String dessert, String dsize, String coffee) {
         // prix total à payer pour le client
         int total = 0;

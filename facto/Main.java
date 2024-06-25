@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-
         System.out.println("Hello world!");
         // pour tester, lancer en ligne de commande :
         // java Program "assiette" "couscous" "coca" "moyen" "baba" "normal" "yes"
